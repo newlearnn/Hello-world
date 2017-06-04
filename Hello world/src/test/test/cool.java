@@ -2,4 +2,8 @@ package test.test;
 
 public class cool {
 
+	
+	private int test = 0;
+	
+	
 }
